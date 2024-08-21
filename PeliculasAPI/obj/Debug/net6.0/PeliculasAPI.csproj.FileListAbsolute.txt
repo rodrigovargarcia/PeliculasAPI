@@ -1,4 +1,3 @@
-C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\appsettings.json
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\PeliculasAPI.exe
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\PeliculasAPI.deps.json
