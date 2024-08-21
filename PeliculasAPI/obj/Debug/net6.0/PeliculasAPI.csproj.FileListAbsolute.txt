@@ -83,3 +83,4 @@ C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Microsoft.Extensi
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Microsoft.Extensions.Identity.Stores.dll
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Castle.Core.dll
 C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\Moq.dll
+C:\Users\PC\Desktop\PeliculasAPI\PeliculasAPI\bin\Debug\net6.0\appsetting.Development.json
