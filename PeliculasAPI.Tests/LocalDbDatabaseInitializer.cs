@@ -19,7 +19,7 @@ namespace PeliculasAPI.Tests
     // PODEMOS TOMARLO COMO UNA "CAJA NEGRA", debido a que solo es código auxiliar que nos permite realizar nuestras pruebas automáticas con LOCALDB.
 
 
-    [TestClass]
+    [TestClass]             // A pesar de que no cuente con ningún TestMethod, debemos agregar éste atributo
     public class LocalDbDatabaseInitializer
     {
         private static readonly string _dbName = "PruebasDeIntegracion";
