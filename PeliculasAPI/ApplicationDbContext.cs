@@ -77,8 +77,8 @@ namespace PeliculasAPI
                 .HasData(new List<SalaDeCine>
                 {
                     new SalaDeCine {Id = 4, Name = "Cine Renzi", Ubication = geometryFactory.CreatePoint(new Coordinate(-64.24286,-27.73181))},
-                    new SalaDeCine {Id = 5, Name = "Cine Renzi", Ubication = geometryFactory.CreatePoint(new Coordinate(-64.26008,-27.79331))},
-                    new SalaDeCine {Id = 6, Name = "Cine Renzi", Ubication = geometryFactory.CreatePoint(new Coordinate(-64.18833,-31.42011))}
+                    new SalaDeCine {Id = 5, Name = "Cine No se ve", Ubication = geometryFactory.CreatePoint(new Coordinate(-64.26008,-27.79331))},
+                    new SalaDeCine {Id = 6, Name = "Cine Hoytz", Ubication = geometryFactory.CreatePoint(new Coordinate(-64.18833,-31.42011))}
                 });
         }
 
